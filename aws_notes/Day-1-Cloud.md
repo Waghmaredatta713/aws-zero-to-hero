@@ -1,5 +1,6 @@
 # Day 1 – Introduction to Cloud & AWS 
 1. What is Cloud Computing?
+
 **Simple Definition:**
 Cloud computing means using computing resources like servers, storage, databases, and software over the internet instead of buying and maintaining physical hardware.
 
