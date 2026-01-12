@@ -105,11 +105,15 @@ If a user only needs to view S3, don’t give full S3 access.
 
 **9) Difference between IAM User and Role?**
 
-**IAM User**	                **IAM Role**
-  Permanent	                    Temporary
-  For people	                For services
-  Has password              	No password
-  Long-term credentials	        Short-term credentials
+	                
+| **IAM User**          |             | **IAM Role**          |
+|-----------------------|-------------|-----------------------|
+| Permanent             |             | Temporary             |
+| For people            |             | For services          |
+| Has password          |             | No password           |
+| Long-term credentials |             | Short-term credentials|
+
+   	        
 
 **10) What is AWS Organizations?**
 
